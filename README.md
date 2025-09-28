@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Aditya singh<img src="https://github.com/linuxadi/Aditya/blob/main/Logo-cursor.gif" width="7.798032407407408" height="19" style="margin-top:0px" crossorigin="" class="CToWUd" data-bit="iit"></h1>
+ <h1 align="center">Hi , I'm Aditya singh<img src="https://github.com/linuxadi/Aditya/blob/main/Logo-cursor.gif" width="7.798032407407408" height="19" style="margin-top:0px" crossorigin="" class="CToWUd" data-bit="iit"></h1>
 <h3 align="center">A passionate bug hunter from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linuxadi&label=Profile%20views&color=0e75b6&style=flat" alt="linuxadi" /> </p>
